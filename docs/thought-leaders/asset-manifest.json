@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/poetry-in-motion/thought-leaders/static/css/main.80eb7471.css",
-    "main.js": "/poetry-in-motion/thought-leaders/static/js/main.661311b3.js",
+    "main.js": "/poetry-in-motion/thought-leaders/static/js/main.17dc666b.js",
     "static/js/453.726f1181.chunk.js": "/poetry-in-motion/thought-leaders/static/js/453.726f1181.chunk.js",
     "static/media/change.jpg": "/poetry-in-motion/thought-leaders/static/media/change.897b5b8ec105e7db40c0.jpg",
     "static/media/starting-point.jpg": "/poetry-in-motion/thought-leaders/static/media/starting-point.d13e7948ab4b395f5158.jpg",
@@ -23,11 +23,11 @@
     "static/media/Roboto-Thin.woff2": "/poetry-in-motion/thought-leaders/static/media/Roboto-Thin.6d65b184a6e7ec1168a8.woff2",
     "index.html": "/poetry-in-motion/thought-leaders/index.html",
     "main.80eb7471.css.map": "/poetry-in-motion/thought-leaders/static/css/main.80eb7471.css.map",
-    "main.661311b3.js.map": "/poetry-in-motion/thought-leaders/static/js/main.661311b3.js.map",
+    "main.17dc666b.js.map": "/poetry-in-motion/thought-leaders/static/js/main.17dc666b.js.map",
     "453.726f1181.chunk.js.map": "/poetry-in-motion/thought-leaders/static/js/453.726f1181.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80eb7471.css",
-    "static/js/main.661311b3.js"
+    "static/js/main.17dc666b.js"
   ]
 }
